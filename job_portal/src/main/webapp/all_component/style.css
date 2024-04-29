@@ -1,0 +1,35 @@
+.bg-custom{
+	background : #283593; 
+}
+
+.navbar .nav-item:hover .nav-link{
+	background: white;
+	color:black;
+	border-radius:20px;
+}
+
+.btn{
+	    color: #fff;
+}
+.btn:hover{
+	background: white;
+	color:black;
+	border-radius:20px;
+}
+.navbar .nav-item .nav-link {
+    font-size: 15px;
+    color: white;
+}
+.card{
+	
+    background: linear-gradient(45deg, #f9f1f1, white);
+    box-shadow: 0 0 20px rgba(0, 144, 238, 144);
+    
+}
+.carda{
+    background: linear-gradient(45deg, #f9f1f1, white);
+    box-shadow: 0 0 20px rgba(0, 144, 238, 144);}
+.p-3 {
+    padding: 0.25rem !important;
+}
+ 
